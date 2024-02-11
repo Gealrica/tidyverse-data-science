@@ -2,5 +2,8 @@
 
 Tema 1 - Gráficos con ggplot ?
 
-Vamos a comenzar
+**Vamos a comenzar**
+
+la vida es bella
+
 
